@@ -8,5 +8,4 @@
 # How to Use This Bot
  •	Install Requirements<br/><br/>
    pip install -r requirements.txt<br/><br/>
- •	Watch This Full Tutorial on How to use this Bot Step by Step<br/>
-   > https://youtu.be/JGKzTTN-zCI
+
